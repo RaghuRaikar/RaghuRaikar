@@ -2,7 +2,7 @@
 
 🎓 **CS Student & Math Minor @ UCSC**  
 💡 Passionate about AI, NLP, and Full-Stack Development  
-🛠 Interned at **NASA, Beau, & Kitu Systems**  
+🛠 Interned at **Beau, NASA, & Kitu Systems**  
 📌 Building **PlayPicks**, an AI-powered sports betting chatbot  
 🚀 Open-source contributor & tech writer  
 
