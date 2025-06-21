@@ -1,12 +1,16 @@
 # Hi 👋 I'm Raghavendra Raikar
 
-🎓 **CS Student & Math Minor @ UCSC**  
-💡 Passionate about AI, NLP, and Full-Stack Development  
-🛠 Interned at **Beau, NASA, & Kitu Systems**  
-📌 Building **PlayPicks**, an AI-powered sports betting chatbot  
-🚀 Open-source contributor & tech writer  
+🎓 **Incoming M.S. CS @ Georgia Tech (Machine Learning Specialization)**  
+🎓 **B.S. Computer Science, Math Minor @ UC Santa Cruz**  
+🤖 Focused on **AI, NLP, and Full-Stack Development**  
+🛰️ Interned at **NASA, UXLY, Beau, & Kitu Systems**  
+📌 Currently building **PlayPicks**, an AI-powered sports analytics chatbot  
+✍️ Open-source contributor & technical writer on Medium  
+
+---
 
 ## 🔧 Tech Stack
+
 ### Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -38,13 +42,19 @@
 ![CI/CD](https://img.shields.io/badge/-CI/CD-004880?style=flat-square&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+---
 
-## 🔥 What I'm Working On
-- 🚀 **PlayPicks**: AI-powered chatbot for sports betting using LlamaIndex & GPT-4
-- 📝 Writing about **AI, NLP, and Full-Stack Development** on Medium
-- **Contributing to Open Source** – Actively improving AI/ML repositories and collaborating on community-driven projects.  
+## 🔥 Current Projects & Interests
 
-## 📫 Connect with Me
+- 🤖 **PlayPicks** – AI-powered chatbot for sports analytics using GPT-4 and LlamaIndex  
+- ✍️ Writing about **AI, NLP, and Software Engineering** on Medium  
+- 🧠 Exploring **LLMs, RAG pipelines, and autonomous agents**  
+- 🌐 Contributing to open-source AI/ML projects and research pipelines  
+
+---
+
+## 📫 Let’s Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavendraraikar)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaghuRaikar)  
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@raghu.raikar)
