@@ -1,6 +1,5 @@
 # Hi 👋 I'm Raghavendra Raikar
 
-🎓 **Incoming M.S. CS @ Georgia Tech (Machine Learning Specialization)**  
 🎓 **B.S. Computer Science, Math Minor @ UC Santa Cruz**  
 🤖 Focused on **AI, NLP, and Full-Stack Development**  
 🛰️ Interned at **NASA, UXLY, Beau, & Kitu Systems**  
